@@ -1,3 +1,8 @@
+### Hi there👋
+- フロントエンド領域に興味があります。
+- TypeScriptとReactが好きです。
+- NestJSを使ったバックエンド開発も勉強中。
+
 ### Status📊
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caltistals&theme=vue)
  
