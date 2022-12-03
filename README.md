@@ -4,6 +4,11 @@
 - TypeScriptとReactが好きです
 - NestJSを使ったバックエンド開発も勉強中
 
+## ✒今取り組んでいること
+- 長期インターン
+- 個人開発
+- 大学でのチーム開発
+- 研究
 # 📊Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caltistals&theme=vue)
  
