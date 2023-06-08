@@ -1,14 +1,6 @@
 # 👋Hi there
-- 2022年4月からWeb開発の勉強を始めました（これまでは大学でJavaをやっていた）
-- フロントエンド領域の学習に力を入れています
-- TypeScriptとReactが好きです
-- NestJSを使ったバックエンド開発も勉強中
-
-## ✒今取り組んでいること
-- 長期インターン
-- 個人開発
-- 大学でのチーム開発
-- 研究
+- 現在のスキルセットはフロントメイン
+- バックエンドも始めました
 # 📊Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caltistals&theme=vue)
  
