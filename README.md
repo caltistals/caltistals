@@ -1,12 +1,8 @@
 # 👋Hi there
-- 現在のスキルセットはフロントメイン
-- バックエンドも始めました
+バックエンドエンジニアをやっています
+
 # 📊Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caltistals&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caltistals&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caltistals&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🦾Skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,react,nextjs,tailwind,vite,firebase,git,github&perline=5&theme=light)](https://skillicons.dev)
